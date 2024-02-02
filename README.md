@@ -1,6 +1,6 @@
-# List of songs yuuki can sing
+# List of songs Yuuki can sing
 
-This is a list of songs yuuki can sing.
+This is a list of songs Yuuki can sing.
 
 * https://www.last.fm/user/yuukikonno/playlists
 
