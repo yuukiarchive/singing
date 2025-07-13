@@ -1,4 +1,4 @@
-# List of songs Yuuki can sing
+# yuuki's singing
 
 This is a list of songs Yuuki can sing.
 
